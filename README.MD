@@ -70,67 +70,6 @@ FlaskFormsApp/
 │   └── ejercicio2.html
 │
 └── venv/
-```
-
-## Instalación
-
-### 1. Clonar el repositorio
-
-```bash
-git clone URL_DEL_REPOSITORIO
-```
-
-### 2. Ingresar al proyecto
-
-```bash
-cd FlaskFormsApp
-```
-
-### 3. Crear entorno virtual
-
-```bash
-python -m venv venv
-```
-
-### 4. Activar entorno virtual
-
-Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-### 5. Instalar dependencias
-
-```bash
-pip install -r requirements.txt
-```
-
-### 6. Ejecutar la aplicación
-
-```bash
-python main.py
-```
-
-La aplicación estará disponible en:
-
-```text
-http://127.0.0.1:5000
-```
-
-## Capturas de pantalla
-
-### Menú principal
-
-*(Agregar captura aquí)*
-
-### Ejercicio 1
-
-*(Agregar captura aquí)*
-
-### Ejercicio 2
-
-*(Agregar captura aquí)*
 
 ## Autor
 
@@ -140,4 +79,3 @@ Analista Programador | Desarrollador Full Stack
 
 ## Repositorio
 
-Agregar aquí la URL de GitHub una vez publicado el proyecto.
